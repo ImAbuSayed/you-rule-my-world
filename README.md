@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-rule-my-world/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for You Rule My World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-rule-my-world/) |
+| **Get License** | [Get License For You Rule My World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-rule-my-world/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `913dda0fc3f7a5f949cff42f1f756449469da6ef2712f736cda66b350a164928` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

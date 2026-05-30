@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - You Rule My World
+
+This log tracks the cryptographic history and versioning for the song **You Rule My World** (you-rule-my-world).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T21:01:40.213540 | `v1` | `913dda0fc3f7a5f949cff42f1f756449469da6ef2712f736cda66b350a164928` | `dd0137ea993986ea08cc2d4c98eb63a72e2d54f728ea38dc53e4a4743c47e7d5` | `2026-05-30_you-rule-my-world-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
