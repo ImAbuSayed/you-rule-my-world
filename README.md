@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-rule-my-world/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for You Rule My World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-rule-my-world/) |
+| **Get License** | [Request Licensing for You Rule My World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-rule-my-world/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your shadow falls
+> Dancing around on these faded walls
+> You hold the map to my hidden parts
+> The only queen of my rebel heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
